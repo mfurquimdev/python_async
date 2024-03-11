@@ -1,0 +1,5 @@
+# Ignore the mkdocs.yml file, as Prettier moves some comments around
+mkdocs.yml
+
+# ignore generated pipfile lock
+Pipfile.lock
